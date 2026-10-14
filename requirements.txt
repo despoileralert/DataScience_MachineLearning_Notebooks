@@ -8,9 +8,29 @@ nycflights13
 # data manipulation
 numpy
 pandas
+scipy
 # data import
 openpyxl
 xlrd
 # data visualization
 matplotlib
 seaborn
+plotly
+matplotlib-venn
+missingno
+networkx
+# machine learning
+scikit-learn
+xgboost
+feature-engine
+PyWavelets
+# clustering
+kmodes
+gower
+umap-learn
+hdbscan
+# utilities
+tqdm
+streamlit
+# testing
+pytest
